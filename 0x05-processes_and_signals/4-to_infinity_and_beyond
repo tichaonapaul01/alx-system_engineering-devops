@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# This script displays a statement indefinitely
+# User needs to press Ctrl-C to stop
+
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2
+done
